@@ -1,0 +1,30 @@
+{
+    "0": {
+        "code": "akiec",
+        "name": "Actinic keratoses and intraepithelial carcinomae"
+    },
+    "1": {
+        "code": "bcc",
+        "name": "Basal cell carcinoma"
+    },
+    "2": {
+        "code": "bkl",
+        "name": "Benign keratosis-like lesions"
+    },
+    "3": {
+        "code": "df",
+        "name": "Dermatofibroma"
+    },
+    "4": {
+        "code": "nv",
+        "name": "Melanocytic nevi"
+    },
+    "5": {
+        "code": "vasc",
+        "name": "Pyogenic granulomas and hemorrhage"
+    },
+    "6": {
+        "code": "mel",
+        "name": "Melanoma"
+    }
+}
